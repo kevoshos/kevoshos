@@ -6,7 +6,7 @@
 >>
 🚀 Currently working at Bitso as QA Engineer to #MakeCryptoUseful. 
 >>
-💻 Currently automating test with [cypress]https://www.cypress.io/ and [webdriverio](https://webdriver.io/). 
+💻 Currently automating test with [cypress](https://www.cypress.io/) and [webdriverio](https://webdriver.io/). 
 >>
 >>
 📍 Feel free to reach out! LinkedIn https://www.linkedin.com/in/kevinmaldonadoalonzo/..
