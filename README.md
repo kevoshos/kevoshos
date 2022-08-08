@@ -1,16 +1,19 @@
-=======
-# kevoshos 
-
-👋🏻 Hello!!  
+👋🏻 Hello!!
+>>
 ## About me
-👨🏻‍💻 I'm Kevin, IT guy making my best on Software Quality Assurance for the last years. 
 >>
-🚀 Currently working at Bitso as QA Engineer to #MakeCryptoUseful. 
+👨🏻‍💻 I'm Kevin Maldonado.
 >>
-💻 Currently automating test with [cypress](https://www.cypress.io/) and [webdriverio](https://webdriver.io/). 
+>>🇲🇽 Mérida, México
 >>
+>>3️⃣2️⃣ years old
 >>
-📍 Feel free to reach out! [LinkedIn](https://www.linkedin.com/in/kevinmaldonadoalonzo/)
+Software testing engineer.
 >>
->>>>>>> 36fe8f18e06e2f2a7511734bdc5c13a5fb787004
-Thanks for reading!
+>>🚀 QA Engineer at [Bitso](https://bitso.com/)
+>>
+>>💻 Currently automating tests with [cypress](https://www.cypress.io/) and [webdriverio](https://webdriver.io/)
+>>
+>>✍🏻 Personal [blog](https://medium.com/@qatrain)
+>>
+📍 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/kevinmaldonadoalonzo/)
